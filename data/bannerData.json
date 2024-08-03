@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Discover the Future of AI",
+        "des": "Explore cutting-edge advancements in artificial intelligence and how they are transforming industries.",
+        "imageUrl": "/img1.png",
+        "bgUrl": "/bg1.jpg",
+        "btnText": "Learn More",
+        "dark": "true"
+    },
+    {
+        "id": 2,
+        "title": "Revolutionize Your Workspace",
+        "des": "Modern solutions to enhance productivity and collaboration in your workplace.",
+        "imageUrl": "/img2.png",
+        "bgUrl": "/bg2.jpg",
+        "btnText": "Learn More",
+        "dark": "false"
+    },
+    {
+        "id": 3,
+        "title": "Sustainable Energy Solutions",
+        "des": "Innovative approaches to sustainable energy and how they can benefit the environment.",
+        "imageUrl": "/img3.png",
+        "bgUrl": "/bg3.jpg",
+        "btnText": "Learn More",
+        "dark": "false"
+    },
+    {
+        "id": 4,
+        "title": "Smart Home Innovations",
+        "des": "The latest technology to make your home smarter, safer, and more efficient.",
+        "imageUrl": "/img4.png",
+        "bgUrl": "/bg4.jpg",
+        "btnText": "Learn More",
+        "dark": "false"
+    },
+    {
+        "id": 5,
+        "title": "Health and Wellness Trends",
+        "des": "Stay updated with the newest trends in health and wellness to improve your lifestyle.",
+        "imageUrl": "/img5.png",
+        "bgUrl": "/bg5.jpg",
+        "btnText": "Learn More",
+        "dark": "false"
+    },
+    {
+        "id": 6,
+        "title": "Travel the World",
+        "des": "Discover exciting destinations and travel tips for your next adventure.",
+        "imageUrl": "/img6.png",
+        "bgUrl": "/bg6.jpg",
+        "btnText": "Learn More",
+        "dark": "false"
+    },
+    {
+        "id": 7,
+        "title": "Financial Planning Tips",
+        "des": "Expert advice on managing your finances and planning for the future.",
+        "imageUrl": "/img9.png",
+        "bgUrl": "/bg7.jpg",
+        "btnText": "Learn More",
+        "dark": "false"
+    },
+    {
+        "id": 8,
+        "title": "The Art of Cooking",
+        "des": "Explore new recipes and cooking techniques from world-class chefs.",
+        "imageUrl": "/img10.png",
+        "bgUrl": "/bg8.jpg",
+        "btnText": "Learn More",
+        "dark": "false"
+    }
+]
