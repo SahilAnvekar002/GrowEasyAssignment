@@ -22,7 +22,7 @@ function AdBannerComp({ id, title, des, imgUrl, bgUrl, btnText, dark, setOpenMod
   }
 
   return (
-    <div className='w-[45%] py-12 px-6 flex m-4 rounded-md shadow-md' style={{ background: `url('https://raw.githubusercontent.com/SahilAnvekar002/GrowEasyAssignment/master/public/${bgUrl}')no-repeat center center/cover` }}>
+    <div className='w-[45%] py-12 px-6 flex m-4 rounded-md shadow-md' style={{ background: `url('https://raw.githubusercontent.com/SahilAnvekar002/GrowEasyAssignment/master/public${bgUrl}')no-repeat center center/cover` }}>
       <div className='flex flex-col w-[60%] px-10'>
         <h1 className={`text-4xl font-bold mt-4 mb-6 ${dark == "true" && 'text-white'}`}>{title}</h1>
         <span className={`text-xl mb-16 ${dark == "true" && 'text-white'}`}>{des}</span>
