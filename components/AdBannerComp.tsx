@@ -28,7 +28,7 @@ function AdBannerComp({ id, title, des, imgUrl, bgUrl, btnText, dark, setOpenMod
         <span className={`text-xl mb-16 ${dark == "true" && 'text-white'}`}>{des}</span>
         <button className={`py-2 px-4 border border-gray-700 w-1/2 rounded-md ${dark == "true" && 'text-white'}`}>{btnText}</button>
       </div>
-      <div className='flex flex-row-reverse items-start w-[40%]' style={{ background: `${dark == "true" ? 'linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),' : ""}url('${imgUrl}')no-repeat center 40%/100%` }}>
+      <div className='flex flex-row-reverse items-start w-[40%]' style={{ background: `${dark == "true" ? 'linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),' : ""}url('https://raw.githubusercontent.com/SahilAnvekar002/GrowEasyAssignment/master/public${imgUrl}')no-repeat center 40%/100%` }}>
         <button className='-mt-8' onClick={() => handleClick(id)}><IconPencil className={`${dark == "true" && 'text-white'}`} /></button>
       </div>
     </div>
