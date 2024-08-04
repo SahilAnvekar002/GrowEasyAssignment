@@ -36,24 +36,6 @@
         "dark": "false"
     },
     {
-        "id": 5,
-        "title": "Health and Wellness Trends",
-        "des": "Stay updated with the newest trends in health and wellness to improve your lifestyle.",
-        "imageUrl": "/img5.png",
-        "bgUrl": "/bg5.jpg",
-        "btnText": "Learn More",
-        "dark": "false"
-    },
-    {
-        "id": 6,
-        "title": "Travel the World",
-        "des": "Discover exciting destinations and travel tips for your next adventure.",
-        "imageUrl": "/img6.png",
-        "bgUrl": "/bg6.jpg",
-        "btnText": "Learn More",
-        "dark": "false"
-    },
-    {
         "id": 7,
         "title": "Financial Planning Tips",
         "des": "Expert advice on managing your finances and planning for the future.",
@@ -68,6 +50,24 @@
         "des": "Explore new recipes and cooking techniques from world-class chefs.",
         "imageUrl": "/img10.png",
         "bgUrl": "/bg8.jpg",
+        "btnText": "Learn More",
+        "dark": "false"
+    },
+    {
+        "id": 5,
+        "title": "Health and Wellness Trends",
+        "des": "Stay updated with the newest trends in health and wellness to improve your lifestyle.",
+        "imageUrl": "/img5.png",
+        "bgUrl": "/bg5.jpg",
+        "btnText": "Learn More",
+        "dark": "false"
+    },
+    {
+        "id": 6,
+        "title": "Travel the World",
+        "des": "Discover exciting destinations and travel tips for your next adventure.",
+        "imageUrl": "/img6.png",
+        "bgUrl": "/bg6.jpg",
         "btnText": "Learn More",
         "dark": "false"
     }
